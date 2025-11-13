@@ -1,7 +1,5 @@
+# SIN Project — Digital Usage Analysis
 
-# SIN Project — Event Analysis
-
-Concise, ready-to-run summary for the SIN project: analysis notebooks, datasets, and visuals.
 
 ## What this repo contains
 

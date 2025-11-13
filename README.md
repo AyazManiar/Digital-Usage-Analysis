@@ -1,4 +1,4 @@
-# SIN Project — Digital Usage Analysis
+# Digital Usage Analysis
 
 
 ## What this repo contains

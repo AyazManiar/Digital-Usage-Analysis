@@ -5,7 +5,6 @@
 
 - Notebooks
 	- `SIN_Ayaz_Ruchin.ipynb` — primary exploratory analysis and visualizations.
-	- `combined_final_fg_events_analysis.ipynb` — merged/final analysis pipeline and results.
 - Dataset
 	- `Dataset/final_fg_events.csv` — final cleaned dataset used by the notebooks.
 - Images
@@ -61,7 +60,3 @@ See `requirements.txt` for the minimal packages to run the notebooks. Typical en
 
 - Generated figures and exports are saved in `Images/`.
 - Use the notebooks to reproduce figures used in the presentations.
-
-## Contact / License
-
-If you need help reproducing results or want to contribute, open an issue or contact the project owner.
